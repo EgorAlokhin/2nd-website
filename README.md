@@ -10,4 +10,4 @@ ____
 | day 3         | 55 Liters      |  $1600 |
 ____
 Inline-style: 
-![alt text](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg "Logo Title Text 1")
+![tree-736885_1280](https://github.com/EgorAlokhin/2nd-website/assets/124712043/f19980c2-9134-4245-a198-b8800781cfac)
